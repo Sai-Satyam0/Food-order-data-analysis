@@ -301,7 +301,7 @@ A few findings that stood out during the analysis:
     accounting for approximately **44.5%** of cancellations.
 -   Overall cancellation rate was approximately **1.7%**.
 
-### 🚚 Delivery performance
+### Delivery performance
 
 -   Average estimated delivery time: **30.92 minutes**
 -   Average actual delivery time: **35.15 minutes**

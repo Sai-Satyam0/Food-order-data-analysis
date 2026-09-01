@@ -1,8 +1,8 @@
-# 🍽️ Food Delivery Data Analytics
+# Food Delivery Data Analytics
 
-> **An end-to-end data analytics project --- from a raw Kaggle dataset
-> to a cleaned analytical dataset, deep Excel analysis, a written
-> business report, and an interactive Power BI dashboard.**
+**An end-to-end data analytics project --- from a raw Kaggle dataset
+to a cleaned analytical dataset, deep Excel analysis, a written
+business report, and an interactive Power BI dashboard.**
 
 This project was built to follow a realistic **data analyst workflow**,
 rather than jumping straight into visualization.
@@ -14,7 +14,7 @@ the findings → visualize them interactively.**
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+## Project Overview
 
 The dataset contains **50,000 food-delivery orders** with information
 about cities, restaurant types, food categories, order status,
@@ -44,31 +44,31 @@ analysis.
 
 ------------------------------------------------------------------------
 
-# 🧰 Tools & Technologies
+# Tools & Technologies
 
   -----------------------------------------------------------------------
   Tool                                Purpose
   ----------------------------------- -----------------------------------
-  🐍 **Python / Pandas / NumPy**      Data inspection, cleaning and basic
+  **Python / Pandas / NumPy**      Data inspection, cleaning and basic
                                       EDA
 
-  📊 **Microsoft Excel**              Deep exploratory and business
+  **Microsoft Excel**              Deep exploratory and business
                                       analysis
 
-  📝 **LibreOffice Writer (ODT)**     Documenting findings and business
+  **LibreOffice Writer (ODT)**     Documenting findings and business
                                       insights
 
-  📈 **Microsoft Power BI**           Data modeling, DAX and interactive
+  **Microsoft Power BI**           Data modeling, DAX and interactive
                                       visualization
 
-  📁 **CSV / XLSX**                   Data storage and analytical outputs
+  **CSV / XLSX**                   Data storage and analytical outputs
 
-  📓 **Jupyter Notebook**             Reproducible Python analysis
+  **Jupyter Notebook**             Reproducible Python analysis
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
-# 🔄 My Analysis Workflow
+# My Analysis Workflow
 
 ## 1. Raw Dataset --- Kaggle
 
@@ -135,7 +135,7 @@ Check](ScreenShots/Code/FIxing%20datatype%20and%20final%20check.png)
 
 ------------------------------------------------------------------------
 
-# 📊 3. Excel --- Deep Analysis
+# 3. Excel --- Deep Analysis
 
 After cleaning the dataset, I moved the **cleaned data into Excel for
 deeper analysis**.
@@ -176,7 +176,7 @@ Status](ScreenShots/Excel/Category%20and%20status%20of%20order%20.png)
 
 ------------------------------------------------------------------------
 
-# 📝 4. Analysis Report
+# 4. Analysis Report
 
 The Excel findings were then turned into a structured **Data Analysis
 Report**.
@@ -202,15 +202,15 @@ File:
 
 ### Report screenshots
 
-![Report Page 1](ScreenShots/Report/Page%201.png)
+![Report Page 1](ScreenShots/Reports/Page%201.png)
 
-![Report Page 2](ScreenShots/Report/Page%202.png)
+![Report Page 2](ScreenShots/Reports/Page%202.png)
 
-![Report Page 3](ScreenShots/Report/Page%203.png)
+![Report Page 3](ScreenShots/Reports/Page%203.png)
 
 ------------------------------------------------------------------------
 
-# 📈 5. Power BI --- Final Visualization Layer
+# 5. Power BI --- Final Visualization Layer
 
 The final stage was building an interactive Power BI report from the
 cleaned data.
@@ -233,7 +233,7 @@ The Power BI file is:
 
 ------------------------------------------------------------------------
 
-# 🖥️ Power BI Dashboard
+# Power BI Dashboard
 
 ## Page 1 --- Order Analysis
 
@@ -277,7 +277,7 @@ Analysis](ScreenShots/PowerBI/Cancellation_Analysis.jpeg)
 
 A few findings that stood out during the analysis:
 
-### 🏙️ City performance
+### City performance
 
 -   **City_A** was the strongest-performing city, generating
     approximately **₹717.7K** in completed order value.
@@ -286,7 +286,7 @@ A few findings that stood out during the analysis:
 -   **City_D** had the lowest completed order value at approximately
     **₹214.5K**.
 
-### 🍔 Restaurant & category performance
+### Restaurant & category performance
 
 -   **Fast Food** generated the highest completed order value at
     approximately **₹898.6K**.
@@ -294,7 +294,7 @@ A few findings that stood out during the analysis:
 -   **Burger** was the highest-value food category at approximately
     **₹538.7K**.
 
-### ❌ Cancellations
+### Cancellations
 
 -   There were **868 cancelled orders** out of 50,000 total orders.
 -   **Driver Unassigned** was the largest cancellation reason,
@@ -311,14 +311,14 @@ A few findings that stood out during the analysis:
     approximately **47.07 minutes**.
 -   High traffic was associated with longer average delivery times.
 
-### ⭐ Tips & ratings
+### Tips & ratings
 
 -   Completed orders generated approximately **₹79.1K** in total tips.
 -   Average customer rating: **4.30 / 5**
 -   Average restaurant rating: **4.21 / 5**
 -   Delivery partners had the highest average rating at **4.50 / 5**.
 
-### 🕒 Time analysis
+### Time analysis
 
 -   **Evening** was the highest-value time period at approximately
     **₹559.1K**.
@@ -331,7 +331,7 @@ A few findings that stood out during the analysis:
 
 ------------------------------------------------------------------------
 
-# 💡 What This Project Demonstrates
+# What This Project Demonstrates
 
 This project is more than a collection of charts.
 
@@ -356,7 +356,7 @@ It also demonstrates experience with:
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
+# Project Structure
 
 ``` text
 Food Data analystics/
@@ -405,7 +405,7 @@ Food Data analystics/
 
 ------------------------------------------------------------------------
 
-# 🚀 How to Explore the Project
+# How to Explore the Project
 
 If you want to follow the project in the same order in which it was
 created:
@@ -453,7 +453,7 @@ DAX/modeling work.
 
 ------------------------------------------------------------------------
 
-# 🎯 Final Outcome
+# Final Outcome
 
 The final result is an end-to-end food delivery analytics project that
 takes a raw dataset and turns it into a **cleaned dataset, detailed
@@ -469,7 +469,7 @@ It was building the workflow behind it:
 
 ------------------------------------------------------------------------
 
-## 👤 Author
+## Author
 
 **Sai Satyam**
 
